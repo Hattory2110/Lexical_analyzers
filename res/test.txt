@@ -1,0 +1,1 @@
+{ertekadas lesz} a1:=23<>(*nem egyenlo*)a2 $
